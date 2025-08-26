@@ -1,5 +1,5 @@
 name: Update gamecache.sqlite.gz with BGG data
-#delete this line and commit to enable actions
+
 on:
   schedule:
     - cron: '0 * * * *'
